@@ -23,8 +23,4 @@
 [![@yogan_gopi's Holopin board](https://holopin.me/yogan_gopi)](https://holopin.io/@yogan_gopi)
 
 
-<p align="center">
-  <img height="150" width="150" src="left.webp">
-  <img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=yogan-gopi&theme=dark&border_radius=5)](https://git.io/streak-stats)"/>
-  <img height="150" width="150" src="right.webp">
-</p>
+
