@@ -22,5 +22,9 @@
 
 [![@yogan_gopi's Holopin board](https://holopin.me/yogan_gopi)](https://holopin.io/@yogan_gopi)
 
-
+<p align="center">
+  <img height="150" width="150" src="left.webp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yogan-gopi&show_icons=true&theme=gruvbox"/>
+  <img height="150" width="150" src="right.webp">
+</p>
 
