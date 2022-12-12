@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Coder trying to enter the Tech World!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
-- 🌱 I’m currently learning **DSA and Machine Learning**
+- 🌱 I’m currently learning **DSA and Machine Learning.**
 
 - 📫 How to reach me **yogang2002@gmail.com**
 
